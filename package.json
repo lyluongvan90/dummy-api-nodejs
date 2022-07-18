@@ -1,0 +1,15 @@
+{
+    "name": "azurevaultdummy",
+    "version": "1.0.0",
+    "description": "azure key vault dummy",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.1",
+        "fs": "0.0.1-security"
+    }
+}
